@@ -16,6 +16,7 @@ router.route('/').get((req,res) => {
   res.send('Hello from DALL-E!')
 });
 
+// creates the AI image from the form prompt, then sends back the image
 router.route('/').post( async (req, res) => {
   try {
     const { prompt } = req.body;
