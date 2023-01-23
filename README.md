@@ -1,2 +1,2 @@
 # AI IMAGE GENERATION
-## https://ai-image-generation-inky.vercel.app/
+https://ai-image-generation-inky.vercel.app/
